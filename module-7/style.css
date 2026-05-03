@@ -1,0 +1,43 @@
+/* 
+ * Isaac St Hubert 05/02/2026 Module 7.2
+ */
+
+/*
+ * Style class
+ */
+.whitecircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/*
+ * Style class
+ */
+.circleborder {
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+}
+
+/*
+ * Style class
+ */
+.border {
+    -fx-border-color: orange;
+    -fx-border-width: 5;
+}
+
+/*
+ * Style ID
+ */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: black;
+}
+
+/*
+ * Style ID
+ */
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: black;
+}
